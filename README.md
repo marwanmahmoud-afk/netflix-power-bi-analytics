@@ -31,11 +31,6 @@ The goal of the project is to demonstrate an end-to-end BI workflow, starting fr
 ### Full Dashboard
 ![Dashboard Overview](assets/screenshots/dashboard-overview.png)
 
-### KPI Section
-![Dashboard KPIs](assets/screenshots/dashboard-kpis.png)
-
-### Detailed Analysis
-![Dashboard Details](assets/screenshots/dashboard-details.png)
 
 <!-- Optional -->
 <!--
